@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ze-r0o0
 - 👀 I’m interested in space, coding, and sleeping
-- 🌱 I’m currently learning c languange
+- 🌱 I’m currently learning react
 
 
 <!---
