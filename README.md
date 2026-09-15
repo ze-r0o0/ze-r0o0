@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ze-r0o0
+- 👋 Hi, I’m @jemxdev
 - 👀 I’m interested in space, coding, and sleeping
 - 🌱 I’m currently learning react
 
